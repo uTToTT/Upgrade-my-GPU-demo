@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15ac2bc3a9767a84580fa3707916dee4, type: 3}
+  m_Name: VoodooFactory
+  m_EditorClassIdentifier: 
+  VoodooConfigs:
+  - Name: None
+    Type: 0
+    Config: {fileID: 11400000, guid: 86c43449d3bf4a547b541c1848a2727b, type: 2}
+  - Name: GrampsBongo
+    Type: 1
+    Config: {fileID: 11400000, guid: 5ec4dfa881d198e45af41c3347c374c1, type: 2}
+  - Name: Voodoo_2
+    Type: 2
+    Config: {fileID: 11400000, guid: e60beef9572bc2f4baed5afd05e46ce3, type: 2}
+  - Name: Voodoo_3
+    Type: 3
+    Config: {fileID: 11400000, guid: 05772156a5b2b7247877382fe5e9111b, type: 2}

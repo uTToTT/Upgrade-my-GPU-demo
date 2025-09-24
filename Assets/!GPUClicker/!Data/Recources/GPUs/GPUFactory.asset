@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f032184db3303414a8d8469b870b3e1a, type: 3}
+  m_Name: GPUFactory
+  m_EditorClassIdentifier: 
+  GPUs:
+  - Name: Potato
+    Type: 0
+    Config: {fileID: 11400000, guid: 58cc197e3699b46468643cd7d7709571, type: 2}
+  - Name: GPU_2
+    Type: 1
+    Config: {fileID: 11400000, guid: 7d83bd66b2c127e49ae72a6fb30085e1, type: 2}
+  - Name: GPU_3
+    Type: 2
+    Config: {fileID: 11400000, guid: 201c29eee9213704dab5c3bca01ea26a, type: 2}
+  - Name: GPU_4
+    Type: 3
+    Config: {fileID: 11400000, guid: 67ff979d60793824b8f5f9f88146e058, type: 2}
+  - Name: GPU_5
+    Type: 4
+    Config: {fileID: 11400000, guid: 691d6f0698e2c9f4aacea3d7778d202d, type: 2}
+  - Name: GPU_6
+    Type: 5
+    Config: {fileID: 11400000, guid: 825bf754a57ea1d4dac6172b11fd37a9, type: 2}
+  - Name: GPU_7
+    Type: 6
+    Config: {fileID: 11400000, guid: 617ab7e968f08ae4aae5ef3a935f8b85, type: 2}
+  - Name: GPU_8
+    Type: 7
+    Config: {fileID: 11400000, guid: 2a69e4bc49325e546a9a18cdb3d7c6c0, type: 2}
+  - Name: GPU_9
+    Type: 8
+    Config: {fileID: 11400000, guid: 52a26b8ac38f18e4688d2f63a5061dd7, type: 2}
+  - Name: GPU_10
+    Type: 9
+    Config: {fileID: 11400000, guid: dc95279844804cd44b50bfde868693ac, type: 2}

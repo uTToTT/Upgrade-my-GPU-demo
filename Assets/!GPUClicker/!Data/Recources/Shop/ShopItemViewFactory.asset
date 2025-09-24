@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3424a91066cc9f44585390a14f836165, type: 3}
+  m_Name: ShopItemViewFactory
+  m_EditorClassIdentifier: 
+  _gpuItemPrefab: {fileID: 7463520319984425540, guid: 4f20cac7fbfc81842a031619c24a970d, type: 3}
+  _generatorItemPrefab: {fileID: 2229315474046861654, guid: ec5274b68c25d2444bb3f85c34dfc8f5, type: 3}
+  _coolingItemPrefab: {fileID: 3277220516763197905, guid: 446d0964d603ba44cbac16af83d90c25, type: 3}
+  _voodooItemPrefab: {fileID: 2751216151504614757, guid: 9b8ccd438b11406459cd3146769d38c5, type: 3}
